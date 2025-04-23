@@ -4,4 +4,4 @@
 
 目前想要成为一名后端开发工程师。
 
-<img src="./img/你该去上班养我了.jpg" style="zoom: 25%;" />
+<img src="./img/你该去上班养我了.jpg" style="width:25%;" />
